@@ -16,7 +16,7 @@ pip install pillow
 
 ### Run
 
-From cli type something like that:
+From cli type something like:
 
 ```
 python3 cv2_to_detect_motion.py 
